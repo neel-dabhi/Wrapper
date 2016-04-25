@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_fb" android:icon="@drawable/ic_facebook_box"
+            android:title="Facebook"  />
+        <item android:id="@+id/nav_twitter" android:icon="@drawable/ic_twitter"
+            android:title="Twitter" />
+        <item android:id="@+id/nav_insta" android:icon="@drawable/ic_instagram"
+            android:title="Instagram" />
+        <item android:id="@+id/nav_googp" android:icon="@drawable/ic_google_plus_box"
+            android:title="Google+" />
+        <item android:id="@+id/nav_pinterest" android:icon="@drawable/ic_pinterest"
+        android:title="Pinterest" />
+        <item android:id="@+id/nav_link" android:icon="@drawable/ic_linkedin"
+            android:title="Linkedin" />
+
+    </group>
+
+
+        <item android:title="Facebook">
+            <menu>
+
+                <item android:id="@+id/nav_menu" android:icon="@drawable/ic_toc_black_24dp"
+                 android:title="Facebook Menu" />
+                <item android:id="@+id/nav_active" android:icon="@drawable/ic_face_black_24dp"
+                    android:title="Active Friends" />
+                <item android:id="@+id/nav_trending" android:icon="@drawable/ic_trending_up_black_24dp"
+                    android:title="Trending" />
+                <item android:id="@+id/nav_events" android:icon="@drawable/ic_event_black_24dp"
+                    android:title="Events" />
+
+
+            </menu>
+        </item>
+
+    <item android:title="Google+">
+        <menu>
+            <item android:id="@+id/nav_home" android:icon="@drawable/ic_home_black_24dp"
+                android:title="Home" />
+            <item android:id="@+id/nav_settings" android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Settings" />
+            <item android:id="@+id/nav_communities" android:icon="@drawable/ic_group_work_black_24dp"
+                android:title="Communities" />
+
+
+
+
+        </menu>
+    </item>
+
+
+
+    <item android:title="Preferences">
+        <menu>
+            <item android:id="@+id/share" android:icon="@drawable/ic_share_black_48dp"
+                android:title="Share"/>
+            <item android:id="@+id/about_dev" android:icon="@drawable/ic_crown"
+                android:title="About Developer"/>
+            <item android:id="@+id/exit" android:icon="@drawable/ic_exit_to_app_black_48dp"
+                android:title="Exit"/>
+
+        </menu>
+    </item>
+
+</menu>
