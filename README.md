@@ -1,5 +1,2 @@
-# Android-App-From-Responsive-Website-NavDrawer
-Create Androidb App From Responsive Website 
-
-This is an Android Studio Project
-Watch the full tutorials here : https://www.youtube.com/playlist?list=PLKReO2rXgIra9P33x5yq6W479iOo2qMuP
+# Wrapper For Social Networks
+Link to The Google Play https://play.google.com/store/apps/details?id=me.neelkanth.social.app
