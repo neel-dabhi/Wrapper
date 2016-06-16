@@ -1,18 +1,18 @@
 {
 	"wallpapers": [
 		{
-			"name": "wall1",
-			"author": "neelkanth",
+			"name": "One",
+			"author": "Neelkanth",
 			"url": "http://i.imgur.com/qn9h2jE.jpg",
 			"dimensions": "1538 x 2048",
-			"copyright": "Copyright , 2016 neelkanth dabhi. All rights reserved."
+			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		},
 		{
-			"name": "wall2",
-			"author": "neelkanth",
-			"url": "https://drive.google.com/file/d/0B-Hxg3bAQdBkeTBhbnZtbzRNemc/wall2.jpg",
+			"name": "Two",
+			"author": "Neelkanth",
+			"url": "http://i.imgur.com/jwVDN0v.jpg",
 			"dimensions": "1242 x 2208",
-			"copyright": "Copyright , 2016 neelkanth dabhi. All rights reserved."
+			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		}
 	]
 }
