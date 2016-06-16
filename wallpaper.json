@@ -1,0 +1,18 @@
+{
+	"wallpapers": [
+		{
+			"name": "wall1",
+			"author": "neelkanth",
+			"url": "https://drive.google.com/file/d/0B-Hxg3bAQdBkeTBhbnZtbzRNemc/wall1.png",
+			"dimensions": "1538 x 2048",
+			"copyright": "Copyright , 2016 neelkanth dabhi. All rights reserved."
+		},
+		{
+			"name": "wall2",
+			"author": "neelkanth",
+			"url": "https://drive.google.com/file/d/0B-Hxg3bAQdBkeTBhbnZtbzRNemc/wall2.jpg",
+			"dimensions": "1242 x 2208",
+			"copyright": "Copyright , 2016 neelkanth dabhi. All rights reserved."
+		}
+	]
+}
