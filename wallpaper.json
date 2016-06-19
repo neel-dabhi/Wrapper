@@ -1,20 +1,52 @@
 {
 	"wallpapers": [
 		{
-			"name": "Low res",
-			"author": "Neelkanth Dabhi",
-			"thumbnail": "http://i.imgur.com/Waqva5z.jpg",
-			"url": "http://i.imgur.com/LLax0Du.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "Minimal",
+			"author": "Unsplash",
+			"thumbnail": "http://i.imgur.com/9tbYLYv.jpg",
+			"url": "http://i.imgur.com/eXGwPYS.jpg",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
 		},
 		{
-			"name": "Low res",
-			"author": "Neelkanth Dabhi",
+			"name": "Mountain",
+			"author": "Unsplash",
 			"thumbnail": "http://i.imgur.com/wnlMKu3.jpg",
 			"url": "http://i.imgur.com/LLax0Du.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Neelkanth Dabhi. All rights reserved."
+			"dimensions": "5538 x 3684",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Earth View",
+			"author": "Google",
+			"thumbnail": "http://i.imgur.com/xNfX7Qj.jpg",
+			"url": "http://i.imgur.com/9dA73Pf.jpg",
+			"dimensions": "1800 x 1200",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Earth View",
+			"author": "Google",
+			"thumbnail": "http://i.imgur.com/DILMBvr.jpg",
+			"url": "http://i.imgur.com/MiyRfoX.jpg",
+			"dimensions": "1800 x 1200",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Earth View",
+			"author": "Google",
+			"thumbnail": "http://i.imgur.com/ID9btBO.jpg",
+			"url": "http://i.imgur.com/iUVwyvO.jpg",
+			"dimensions": "1800 x 1200",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Earth View",
+			"author": "Google",
+			"thumbnail": "http://i.imgur.com/nNwFVWc.jpg",
+			"url": "http://i.imgur.com/PJiLNjX.jpg",
+			"dimensions": "1800 x 1200",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
 		}
 	]
 }
