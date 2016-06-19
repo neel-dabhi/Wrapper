@@ -1,45 +1,45 @@
 {
 	"wallpapers": [
 		{
-			"name": "One",
-			"author": "Neelkanth",
-			"url": "http://i.imgur.com/qn9h2jE.jpg",
-			"dimensions": "1538 x 2048",
+			"name": "Minimalism",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/eXGwPYS.jpg",
+			"dimensions": "5184 x 3456",
 			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		},
 		{
-			"name": "Two",
-			"author": "Neelkanth",
-			"url": "http://i.imgur.com/jwVDN0v.jpg",
-			"dimensions": "1242 x 2208",
+			"name": "Earth View",
+			"author": "Google",
+			"url": "http://i.imgur.com/PJiLNjX.jpg",
+			"dimensions": "1800 x 1200",
 			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		},
 		{
-			"name": "Three",
-			"author": "Neelkanth",
-			"url": "http://i.imgur.com/8e2O671.jpg",
-			"dimensions": "1242 x 2208",
+			"name": "Earth View",
+			"author": "Google",
+			"url": "http://i.imgur.com/MiyRfoX.jpg",
+			"dimensions": "1800 x 1200",
 			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		},
 		{
-			"name": "Four",
-			"author": "Neelkanth",
-			"url": "http://i.imgur.com/Fbl2gQ3.jpg",
-			"dimensions": "1242 x 2208",
+			"name": "Earth View",
+			"author": "Google",
+			"url": "http://i.imgur.com/iUVwyvO.jpg",
+			"dimensions": "1800 x 1200",
 			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		},
 		{
-			"name": "Five",
-			"author": "Neelkanth",
-			"url": "http://i.imgur.com/Ql0RoY4.jpg",
-			"dimensions": "1242 x 2208",
+			"name": "Earth View",
+			"author": "Google",
+			"url": "http://i.imgur.com/9dA73Pf.jpg",
+			"dimensions": "1800 x 1200",
 			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		},
 		{
-			"name": "Six",
+			"name": "Material",
 			"author": "Neelkanth",
 			"url": "http://i.imgur.com/wg4snhG.jpg",
-			"dimensions": "1242 x 2208",
+			"dimensions": "3200 x 2560",
 			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
 		}
 	]
