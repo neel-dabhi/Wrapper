@@ -1,19 +1,18 @@
 {
 	"wallpapers": [
 		{
-			"name": "Minimalism",
-			"author": "Unsplash",
+			"name": "High res",
+			"author": "Neelkanth Dabhi",
 			"url": "http://i.imgur.com/eXGwPYS.jpg",
-			"dimensions": "5184 x 3456",
-			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
 		},
 		{
-			"name": "Minimalism",
-			"author": "Unsplash",
+			"name": "Low res",
+			"author": "Neelkanth Dabhi",
 			"url": "http://i.imgur.com/LLax0Du.jpg",
-			"dimensions": "5184 x 3456",
-			"copyright": "Copyright , 2016 Wallpop. All rights reserved."
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Neelkanth Dabhi. All rights reserved."
 		}
-		
 	]
 }
