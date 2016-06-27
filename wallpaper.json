@@ -1,6 +1,76 @@
 {
 	"wallpapers": [
 		{
+			"name": "Minimal",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/OmTcjn2.jpg",
+			"dimensions": "1280 x 1633",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Nature",
+			"author": "The wall junky",
+			"url": "http://i.imgur.com/Tn8raio.jpg",
+			"dimensions": "899 x 1349",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Architecture",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/neox5zl.jpg",
+			"dimensions": "1000 x 1500",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Lake",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/9jaGcsv.jpg",
+			"dimensions": "640 x 960",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Flowers",
+			"author": "The wall junky",
+			"url": "http://i.imgur.com/MaLxq35.jpg",
+			"dimensions": "499 x 750",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Nature",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/KmLr2Tp.jpg",
+			"dimensions": "500 x 750",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Architecture",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/ukj74k8.jpg",
+			"dimensions": "1000 x 1500",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Minimal",
+			"author": "Dabhi Neelkanth",
+			"url": "http://i.imgur.com/TUWRJYN.jpg",
+			"dimensions": "1280 x 1917",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Architecture",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/Jc4oeH8.jpg",
+			"dimensions": "961 x 1280",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Architecture",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/Y77Ncwb.jpg",
+			"dimensions": "1280 x 920",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
 			"name": "Material",
 			"author": "Umang Waghela",
 			"url": "http://i.imgur.com/VE3pdgb.png",
