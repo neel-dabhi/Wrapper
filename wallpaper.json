@@ -1,6 +1,13 @@
 {
 	"wallpapers": [
 		{
+			"name": "Trees",
+			"author": "Rutwik Patel",
+			"url": "filesystem:https://web.telegram.org/temporary/%40OsumWalls%20Random%2096372824452131_245883463197007726.jpg",
+			"dimensions": "",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
 			"name": "Material",
 			"author": "Umang Waghela",
 			"url": "http://i.imgur.com/5WNusbC.png",
