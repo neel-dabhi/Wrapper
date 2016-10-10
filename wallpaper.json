@@ -1,6 +1,30 @@
 {
 	"wallpapers": [
 		{
+			"name": "Pixel",
+			"author": "Google",
+			"thumbnail": "http://i.imgur.com/i7hItLP.jpg",
+			"url": "http://i.imgur.com/kgN3yIr.jpg",
+			"dimensions": "2988 x 5312",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Pixel",
+			"author": "Google",
+			"thumbnail": "http://i.imgur.com/roMhsI2.jpg",
+			"url": "http://i.imgur.com/STMOC32.jpg",
+			"dimensions": "2040 x 1820",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Pixel",
+			"author": "Google",
+			"thumbnail": "http://i.imgur.com/0j5ByCK.jpg",
+			"url": "http://i.imgur.com/SbcBDZG.jpg",
+			"dimensions": "2040 x 1820",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
 			"name": "B&W",
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/QKiKyZe.jpg",
