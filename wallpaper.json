@@ -1,6 +1,22 @@
 {
 	"wallpapers": [
 		{
+			"name": "Nature",
+			"author": "Hardik Dava",
+			"thumbnail": "http://i.imgur.com/bEErQUv.jpg",
+			"url": "http://i.imgur.com/o5OdFBM.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
+			"name": "Nature",
+			"author": "Hardik Dava",
+			"thumbnail": "http://i.imgur.com/A9IPKCw.jpg",
+			"url": "http://i.imgur.com/8OAnqUa.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright ¸ 2016 Wallpop. All rights reserved."
+		},
+		{
 			"name": "Osum 57",
 			"author": "Rutwik Patel",
 			"thumbnail": "http://i.imgur.com/iDAQvDS.png",
