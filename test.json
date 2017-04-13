@@ -17,49 +17,49 @@
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/C9YtdT2.jpg",
 			"url": "http://i.imgur.com/DsTXC9b.jpg",
-			"collections":"all,nature,latest"
+			"collections":"all,featured,nature,latest"
 		},
 		{
 			"name": "New 246",
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/l615aQQ.jpg",
 			"url": "http://i.imgur.com/9OeLULA.jpg",
-			"collections":"all,landscape,nature,latest"
+			"collections":"featured,all,landscape,nature,latest"
 		},
 		{
 			"name": "New 245",
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/4hN6QkK.jpg",
 			"url": "http://i.imgur.com/ae5k5Eq.jpg",
-			"collections":"all,nature,wildLife,latest"
+			"collections":"featured,all,nature,wildLife,latest"
 		},
 		{
 			"name": "New 244",
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/3Z34rCb.jpg",
 			"url": "http://i.imgur.com/AUM0OCH.jpg",
-			"collections":"all,nature,landscape,b&w,latest"
+			"collections":"featured,all,nature,landscape,b&w,latest"
 		},
 		{
 			"name": "New 243",
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/xHgVBL3.jpg",
 			"url": "http://i.imgur.com/ncP5Bj6.jpg",
-			"collections":"all,nature,latest"
+			"collections":"featured,all,nature,latest"
 		},
 		{
 			"name": "New 242",
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/jcuFyYK.jpg",
 			"url": "http://i.imgur.com/ptXHbvL.jpg",
-			"collections":"all,urban,b&w,latest"
+			"collections":"featured,all,urban,b&w,latest"
 		},
 		{
 			"name": "New 241",
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/osJeqNe.jpg",
 			"url": "http://i.imgur.com/OacGS0S.jpg",
-			"collections":"all,nature,landscape,latest"
+			"collections":"featured,all,nature,landscape,latest"
 
 		},
 		{
@@ -67,7 +67,7 @@
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/jSMJImC.jpg",
 			"url": "http://i.imgur.com/DiMeTbT.jpg",
-			"collections":"all,nature,architecture,latest"
+			"collections":"featured,all,nature,architecture,latest"
 
 		},
 		{
@@ -75,7 +75,7 @@
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/d5V2rF4.jpg",
 			"url": "http://i.imgur.com/njl8Ebp.jpg",
-			"collections":"all,architecture,urban,materialdesign,minimal,latest"
+			"collections":"all,featured,architecture,urban,materialdesign,minimal,latest"
 
 		},
 		{
@@ -83,7 +83,7 @@
 			"author": "Nick Nice",
 			"thumbnail": "http://i.imgur.com/H1muNh6.jpg",
 			"url": "http://i.imgur.com/fm7c3wI.jpg",
-			"collections":"all,nature,b&w,latest"
+			"collections":"all,featured,nature,b&w,latest"
 
 		},
 		{
